@@ -1,0 +1,12 @@
+# Secrets: never commit your token
+.env
+
+# Script output (regenerate it any time by running the script)
+agent_repos.csv
+
+# Python's virtual environment and cache folders
+.venv/
+__pycache__/
+
+# Mac system files
+.DS_Store
